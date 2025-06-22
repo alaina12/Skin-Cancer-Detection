@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Derma Scan</string>
+    <string name="buttonSelectPhoto">Select Photo</string>
+    <string name="buttonTakePhoto">Open Camera</string>
+    <string name="buttonDiagnose">Detect</string>
+    <string name="defaultImage">Your results will be displayed here</string>
+    <string name="descriptionImage">View for displaying image</string>
+    <string name="skin_cancer_detector">Skin Cancer Detector</string>
+</resources>
